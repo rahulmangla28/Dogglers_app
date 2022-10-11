@@ -5,7 +5,7 @@ It displays dogs information in all modes of Recycler View. It is built to demon
 
 _**You can install preview application from here**_
 
-[![Amphibian App](https://img.shields.io/badge/Doggler's%20App-v1.0.0-brightgreen)]()
+[![Amphibian App](https://img.shields.io/badge/Doggler's%20App-v1.0.0-brightgreen)](https://github.com/rahulmangla28/Dogglers_app/releases/tag/app-debug.apk)
 
 ## :scroll: Contents
 
